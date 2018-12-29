@@ -1,4 +1,3 @@
-# hello-world
-just another repository
+# digit-recognized
 
 siyuanbitan is here. I like coding, and I used to select more ifficient ways to slove problems.
